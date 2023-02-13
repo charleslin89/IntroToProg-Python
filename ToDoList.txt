@@ -1,0 +1,5 @@
+Clean,High
+Sing,Low
+Cook,Medium
+Paint,High
+Chat with roommate,Medium
